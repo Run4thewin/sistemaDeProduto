@@ -1,0 +1,16 @@
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\bin\Debug\sistemaProdutos.exe.config
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\bin\Debug\sistemaProdutos.exe
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\bin\Debug\sistemaProdutos.pdb
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\obj\Debug\sistemaProdutos.Form1.resources
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\obj\Debug\sistemaProdutos.Properties.Resources.resources
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\obj\Debug\sistemaProdutos.csproj.GenerateResource.cache
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\obj\Debug\sistemaProdutos.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\obj\Debug\sistemaProdutos.exe
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\obj\Debug\sistemaProdutos.pdb
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\bin\Debug\sistemaProdutos.exe.manifest
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\bin\Debug\sistemaProdutos.application
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\obj\Debug\sistemaProdutos.csprojAssemblyReference.cache
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\obj\Debug\sistemaProdutos.exe.manifest
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\obj\Debug\sistemaProdutos.application
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\obj\Debug\sistemaProdutos.buscaProduto.resources
+C:\Users\gabriel.santos\source\repos\sistemaProdutos\sistemaProdutos\obj\Debug\sistemaProdutos.cadForm.resources

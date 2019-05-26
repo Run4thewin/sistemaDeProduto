@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<carro>
+  <Produto nome="carro" quantidade="4" categoria="veiculo" historico="--" />
+</carro>
