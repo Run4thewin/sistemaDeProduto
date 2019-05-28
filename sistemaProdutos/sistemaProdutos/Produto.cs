@@ -9,7 +9,7 @@
         public string NomeArquvio { get; private set; }
         public string Historico { get; internal set; }
 
-        public int quantidadePermitida = 20;
+        public int quantidadePermitida = 1;
 
         // TODO PRODUTO DEVE SER INICIADO COM NOME, CATEGORIA E QUANTIDADE E UM HISTORICO 
 
